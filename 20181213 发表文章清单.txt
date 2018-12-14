@@ -1,0 +1,166 @@
+(Department of Radio Engineering,Southeast University,Nanjing,Jiangsu 210096,China)
+陈勇，胡爱群，蔡天佑，钟子果. 通信网中链路重要性的评价方法. 电子学报，2003，31(4):573-575 (Ei检索)
+陈勇，胡爱群，钟子果. 树状网络中最短接通时间的快速算法. 东南大学学报(自然科学版)，2004，34(1):1-4.
+陈勇，胡爱群，钟子果，王兴建. 一种考虑节点失效的通信网终端对可靠性改进算法. 应用科学学报，2004，22(4):459-462
+陈勇，胡爱群，胡啸. 通信网中节点重要性的评价方法. 通信学报，2004，25(8):129-134.
+
+Yong Chen, et al, "Evaluation method for link importance in communication networks(in Chinese)," Acta Electronica Sinica, pp.573-575, Apr. 2003.
+Yong Chen, et al, "Fast algorithm for calculating the minimum makespan in tree-type networks(in Chinese)," Journal of Southeast University (Natural Science Edition), pp.1-4, Jan. 2004.
+Yong Chen, et al, "Evaluation method for node importance in communication networks(in Chinese)," Journal of China Institute of Communications, pp.129-134, Aug. 2004.
+Yong Chen, et al, "An improved algorithm for terminal-pair reliability in communication networks with unreliable nodes(in Chinese)," Journal of Applied Sciences, pp.459-462, Dec. 2004.
+
+Yong Chen, et al. "A modified combined method for computing termainl-pair reliability in networks with unreliable nodes," IEEE Proceedings of the 2003 International Conference on Machine Learning and Cybernetics(ICMLC2003), pp.2426-2429, Xi'an, Nov. 2-5, 2003.
+Yong Chen(3rd author), et al. "An adaptive acoustic echo cancellation without double-talk detection," IEEE Proceedings of the 2003 International Conference on Machine Learning and Cybernetics(ICMLC2003), pp.972-975, Xi'an, Nov. 2-5, 2003.
+Yong Chen, et al. "Finding the most vital node with respect to the number of spanning trees," IEEE Proceedings of the 2003 International Conference on Neural Networks and Signal Processing(ICNNSP'03), pp.1670-1673,Nanjing, Dec. 14-17, 2003.
+Yong Chen, et al. "A note on 'reliability polynomials and link importance in networks'," IEEE Proceedings of the 2003 International Conference on Neural Networks and Signal Processing(ICNNSP'03), pp.1674-1676,Nanjing, Dec. 14-17, 2003.
+
+
+
+Xiao Hu ; Ai-Qun Hu ; Youg Chen ; Xiao-Hong Zeng
+
+Proceedings of the 2003 International Conference on Machine Learning and Cybernetics (IEEE Cat. No.03EX693)
+Year: 2003 , Volume: 2
+Page s: 972 - 975 Vol.2
+Cited by: Papers (1)
+
+
+University: Southeast University, Nanjing 210096, China
+Faculty:    Radio Engineering (since 2006, Information Science and Engineering School)
+Author:     Yong Chen
+Level:      Dissertation – Doctor of Philosophy
+Title:      Research on evaluation method for reliability in communication networks
+Time:       Mar. 2004
+
+Curriculum Vitae - Yong Chen, PhD
+Family Address: Room 301, No. 5, Pujian Road, 200127 Shanghai, China
+Work Address:   No.1800, Jinsui Road, 201206 Shanghai, China
+Mobile:         +86 21 18964362493
+E-mail:         channelymail@163.com
+Date of Birth:  Apr. 19, 1976
+Place of Birth: Yanji (aka Yangbian), Jilin province, China
+Nationality:    P.R. China
+Marital status: Single
+
+Education
+2001 - 2004  Southeast University, NANJING, CHINA
+             Dissertation: Research on evaluation method for reliability in communication networks
+1998 - 2001  Nanjing University of Science and Technology, NANJING, CHINA
+1994 - 1998  Changchun University of Science and Technology, CHANGCHUN, CHINA
+
+Work Experience
+2006 - present Shanghai Huawei Technologies Co. Ltd.
+       Engineer Level A
+2004 - 2006    China Grentech (Nanjing) Co. Ltd. (Nasdaq: GRRF)
+
+一种自适应电话会议回波抵消系统
+An adaptive acoustic echo cancellation system for teleconference
+
+【摘要】 文中给出一种基于去相关最小均方(DLMS)算法和迭代最大长度序列相关(IMLC)算法的电话会议回声抵消系统。鉴于DLMS算法在远端会话期间具有好的工作性能,而IMLC算法在双端会话期间具有良好的工作效果,这种新的回声抵消系统在远端会话期间用DLMS算法估计回声路径,而在双端会话期间用IMLC算法估计回声路径。计算机仿真表明,这种新的回声抵消系统在远端会话和双端会话情况下均能提供较好的回声路径估计。 
+
+【Abstract】 The paper presents a novel adaptive acoustic echo cancellation system for teleconference systems based on a decorrelation least mean squares(DLMS)algorithm and iterative maximal length correlation(IMLC)technique.Since the DLMS adaptive filter works well during far-end-talk and the IMLC estimator works well during double-talk(DT),the new acoustic echo cancellation system esti-mates the impulse response of the room by the DLMS algorithm during ST and estimates the impulse response of the room by the IMLC technique dur ing DT.The computer simulations show that the new adaptive echo cancellation system can provide excellent echo cancellation under both acoustic operating circumstances.[ 还原
+
+一种新的自适应语音增强系统
+A Novel Adaptive Speech Enhancement System
+
+【摘要】 针对自适应噪声对消(ANC)语音增强系统的性能高度依赖于参考信号的质量,任何原始语音信号泄漏到参考信号中,都会导致原始语音信号失真和噪声抵消性能恶化这一问题,本文提出一种对泄漏不敏感的附加随机噪声(ARN)自适应噪声对消语音增强系统。它通过在参考信号中加入一个低功率的宽带随机训练信号,然后用该训练信号作参考信号对噪声传输函数(NTF)进行自适应建模,并在使用自适应预测滤波器(APF)消除NTF自适应建模的语音信号干扰的同时,用补偿滤波器(CPF)来修正由APF引起的参考信号失真。计算机仿真表明,这种ARNANC语音增强系统在泄漏情况下能将原始语音信号从带噪语音信号中有效分离出来。 
+
+【Abstract】 The performance of speech enhancement systems based on adaptive noise cancellation (ANC) is highly dependent on the quality of the reference noise. In the LMS algorithm, the leaking of primary speech signal into the noise reference signal leads to the primary speech signal distortion and poor noise cancellation. Accordingly, a novel adaptive speech enhancement system with adding random noise (ARNANC) is proposed that is much less sensitive to the leakage mentioned above. The ARNANC speech enhancement system is accomplished by adding a low-level, broadband random training signal to the noise reference signal, and adaptively modeling the transfer function of the noise (NTF) by taking the training signal as the reference signal. The ARNANC speech enhancement system uses an adaptive prediction filter (APF) to remove the speech signal embedded in the noisy speech signal that affects the convergence of the modeling filter, and uses a compensation filter (CPF) to modify the distortion of the training signal component due to the APF. Computer simulations demonstrate that the ARNANC speech enhancement system can effectively separate the primary speech signal from the noisy speech no matter under the leakage or leakage-free conditions. 还原
+
+一种窄带主动噪声控制系统次声学路径建模技术
+A Secondary Path Modeling Technique For Narrow band Active Noise Control Systems
+
+【摘要】 本文针对最大长度序列相关(Maximal Length sequence Correlation,MLC)建模技术在窄带主动噪声控制系统次声学路径建模的应用中,系统性能易受窄带信号影响这一不足,提出了一种改进的MLC(MMLC)次声学路径建模技术。具体地说就是采用一个自适应预测滤波器来预测和消除MLC技术中的窄带干扰,并用一个补偿滤波器来修正由预测误差滤波器引起的训练信号成分失真。计算机仿真表明,MMLC算法能有效克服窄带主动噪声控制系统次声学路径建模的窄带信号影响,具有较高的建模精度。 
+
+【Abstract】 When the maximal length sequence correlation (MLC) technique is applied to the secondary path modeling for narrowband active noise control systems, the system performance is easily affected by narrowband signals. In order to overcome this shortcoming, a modified MLC (MMLC) secondary path modeling technique is proposed. That is, a prediction error filter is used to remove the narrowband components in the error signal. The distortion of training signal component due to prediction error is modified by a compensation filter. Computer simulations confirm that using this novel secondary path modeling technique, the impact of the narrowband signals can be overcome effectively as to attain higher modeling accuracy. 还原
+
+
+一种稳健的语音传输路径自适应建模系统及应用
+A Robust Speech Transfer Path Modeling Technique and Its Applications
+
+【摘要】 针对语音信号的特点,提出一种稳健的语音传输路径自适应建模系统.它在引入宽带平稳训练信号克服非平稳输入自适应建模失配的基础上,用小延时预测滤波消除自适应建模的语音干扰,同时用补偿滤波来修正预测滤波导致的训练成分失真.计算机仿真表明,该建模系统在回声抵消、语音增强等领域均有很好的应用前景. 
+
+【Abstract】 According to the features of speech signals, the paper proposes a robust speech transfer path modeling system. After adding a low-level broadband random training signal to eliminate the modeling mismatch, it removes the speech signals in the system output by using an adaptive prediction filter, and it also modifies the distortion of the training signals due to the APF by using a compensation filter. The computer simulations confirm that the novel modeling system can be widely applied to echo cancellation systems and speech enhancement systems. 还原
+
+无双端会话检测回声抵消系统
+An Acoustic Echo Cancellation System Without Double-talk Detection
+
+【摘要】 提出一种无双端会话检测自适应回声抵消系统,这种系统突破了当前自适应回声抵消器必须进行双端会话检测的限制。仿真结果表明这种无双端会话检测回声抵消器在所有工作模式下均能取得理想的回声抵消效果。 
+
+【Abstract】 The paper proposes an echo cancellation system without double-talk detection,which breaks through the restriction that all of the adaptive echo cancellation system must have double-talk detection currently. Simulation results confirm the new acoustic echo cancellation can provide excellent echo cancellation under all operating models. 
+
+in [huxiao], the
+microphone signal is processed by an adaptive prediction filter
+to remove the near-end signal correlation during double-talk.
+
+多参考输入自适应噪声抵消器的算法与实现
+Algorithm and realization for multiple-reference adaptive noise canceller
+
+【摘要】 针对单参考输入自适应噪声抵消器在多噪声源情况下除噪效果不理想的问题 ,根据多参考输入自适应噪声抵消器模型 ,推导了多参考输入最小均方算法 ,并给出其改进算法。以语音信号为例 ,给出了多参考输入自适应语音消噪算法及多参考输入自适应语音噪声抵消器的实现方案 ,并进行了计算机仿真 ,给出了仿真结果。 
+
+【Abstract】 Normally it is not ideal for single reference adaptive noise canceller to eliminate noises under circumstance of more than one noise source. So according to the model of multiple reference adaptive noise canceller, this paper deduces a multiple reference least mean square algorithm(MLMS)and presents its improved algorithm(IMLMS). As an application in voice signal processing, this paper presents an multiple reference adaptive algorithm of elimination speech noises(VMLMS), and it also presents the implement scheme of multiple reference adaptive speech noise canceller. Moreover, we gieve out the simulation results. 还原
+
+一种新的语音噪声抵消算法
+A new algorithm of eliminating speech noises
+
+【摘要】 针对单参考输入自适应噪声抵消器在多噪声源情况下除噪声效果不理想的问题 ,根据多参考输入自适应噪声抵消器模型 ,在推导多参考输入最小均方 (ML MS)算法的基础上 ,给出其改进算法 (IML MS) .结合语音信号的特点 ,给出了多参考输入自适应语音消噪算法 (VML MS) .利用调整算法执行过程的算法改进思想 ,突破了传统的修正收敛系数的算法改进模式 .最后对几种算法的性能进行了计算机仿真比较 . 
+
+【Abstract】 Normally, it is not ideal for single reference adaptive noise canceller to eliminate noises under circumstance of more than one noise source. So according to the model off multiple reference adaptive noise canceller, this paper deduces a multiple reference least mean square algorithm (MLMS) and presents its improved algorithm (IMLMS). This improved algorithm has some advantages, such as fast convergence and doing well in eliminating noises under circumstance of more than one noise source. As an application in voice signal processing, this paper presents an multiple reference adaptive algorithm by adjusting algorithm process compare with the simulation results. According to the analysis of this algorithm and simulation results, it could be concluded that multiple reference adaptive algorithm of eliminating speech noises has the advantages of simplicity, stability, and easy to implement. 还原
+
+
+机动车辆舱室内主动噪声控制系统的设计
+Design of Active Noise Control in the Automobile Room
+
+【摘要】 针对主动噪声控制技术在改善机动车辆舱室内噪声状况的应用中存在的技术难点，如消除声反馈过程、准确获得参考信号和声学路径的估计等，进行了分析、研究，并在此基础上给出了一种机动车辆舱室内的主动噪声控制系统设计方案。 
+
+【Abstract】 This paper presents a scheme of reducing noises inside the automobile room by means of the active noise control． It bases on the resolving of three crucial problems in system implementation， which are eliminating acoustic feedback process， obtaining exact reference signals and estimation of acoustic paths． 
+
+多参考输入多误差输出FXLMS算法及其在机动车辆室内噪声抵消中的应用
+A multiple-reference multiple-error FXLMS algorithm and its application to noise canceling in the automobile room
+
+【摘要】 针对改善坦克、汽车等多发动机机动车辆室内噪场环境这一课题 ,在系统研究自适应信号处理和主动噪声控制方法的基础上 ,推导了多参考输入多误差输出 FXLMS算法 ,提出了基于多参考输入多误差输出FXLMS算法的机动车辆室内主动噪声控制方案 ,并给出了计算机仿真结果 
+
+【Abstract】 This paper mainly aims at the problem on improving indoor noise environment of multi engine vehicles such as tanks and cars.Based on the systematic research of adaptive signal processing and active noise control method,this paper deduces a multi reference multi error FXLMS algorithm and put forwards,based on the algorithm,an indoor active noise control scheme for motor vehicles. Besides,the paper presents the computer simulation results. 
+
+机动车辆室内复合主动噪声控制系统的设计
+Design of the Hybrid Active Noise Controllingin the Atuomobile Room
+
+【摘要】 本文在系统研究主动噪声控制技术和机动车辆内噪声来源的基础上 ,提出利用复合主动噪声控制思想 ,改善机动车辆室内噪声环境的方案及其算法实现。具体地说 ,就是利用反馈主动噪声控制系统 ,抵消低频噪声对车室内的总噪声辐射 ;利用前馈主动噪声控制系统 ,抵消发动机噪声的基频分量及其多次谐波分量。分析表明 :该方案具有较好的除噪效果和较高的实用价值。 
+
+【Abstract】 This paper presents a scheme of reducing noises inside the automobile room by means of the Hybrid Active Noise Controlling.It bases on the systematic researches on the technology of active noise controlling and the analysis of noise sources inside the automobile room.The proposed scheme can attenuate the total noise radiation from low frequency noises when a feedback controller is used,and can also attenuate the base and harmonic frequencies of the engine noises when a feed forward controller is used.Analyses indicate that the presented scheme can reduce the automobile room noises effectively. 还原
+
+抵消发动机噪声的主动噪声控制系统研究
+Research of engine noise cancellation in Active Noise Controlling System
+
+【摘要】 针对主动噪声控制技术在抵消封闭空间中发动机噪声这一应用 ,在对主动噪声控制系统实现中存在的几个关键难题进行探讨、研究的基础上 ,给出了消除声反馈过程、准确获得参考信号和声学路径的估计等几个关键难题的解决方案 
+
+【Abstract】 Aimed at the application of active noise controlling technology in engine noise cancellation in a close space and based on the discussion of the crucial problems in the implementation of Active Noise Controlling System, this paper presents a solution to eliminate acoustic feedback process, to obtaining exactly reference signals and to estimate the acoustic paths, etc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
